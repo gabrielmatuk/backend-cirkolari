@@ -6,7 +6,7 @@ app: ifmg
 
 
 service: ifmg-trabalho
-frameworkVersion: "3.3.0"
+frameworkVersion: "3.0.1"
 	
 plugins:
   - serverless-offline
